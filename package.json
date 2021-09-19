@@ -1,0 +1,50 @@
+{
+  "name": "calorie-manager",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-datepicker": "^3.8.0",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.1.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.1"
+  },
+  "proxy": "http://localhost:5000",
+  "scripts": {
+    "start": "npm run build && node server.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}

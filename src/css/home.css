@@ -1,0 +1,54 @@
+.login-main-div{
+    display:flex
+}
+
+.website-title{
+    font-size: 2rem;
+    margin-right: 10%;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.home-user-logout-div{
+    display:flex;
+    padding:20px;
+    height: 50px;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom: 10px;
+    background-color:rgb(140, 187, 225);
+    justify-content: space-between;
+}
+
+.logout-btn{
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color:red;
+    padding: 10px;
+    width: 100%;
+}
+
+.loggedin-user-div{
+    color:black;
+    margin:10px;
+    padding:10px;
+    font-style: italic;
+    margin-bottom: 10px;  
+}
+.calculate-calorie-main-btn{
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #4CAF50;
+    padding: 10px;
+    width: 200px;
+    height:50px;  
+}
+
+
+
+
+
+
+

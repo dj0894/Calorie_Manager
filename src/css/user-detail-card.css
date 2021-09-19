@@ -1,0 +1,52 @@
+.user-detail-column{
+    width: 25% ;
+    text-align: left;
+    padding: 10px;
+}
+
+.edit-user-detail-btn{
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #4CAF50;
+    padding: 5px;
+    width: 50%; 
+}
+.cancel-user-detail-btn{
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(250, 9, 9);
+    padding: 5px;
+    width: 50%; 
+}
+
+.user-detail-cards{
+    display:flex 
+}
+
+.user-detail-card{
+    box-shadow: 8px 8px 16px 8px rgb(140, 187, 225);
+    transition: 0.3s;
+    width: 50%;
+    margin:10px;
+    background-color: white;
+    padding:10px;
+}
+
+.calorie-calculation-formula-card{
+    box-shadow: 8px 8px 16px 8px rgb(140, 187, 225);
+    transition: 0.3s;
+    width: 50%;
+    margin:10px;
+    background-color: white;
+    padding:10px
+}
+
+.calorie-calculation-formula-card>p{
+    color:green;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: left;
+}
+
+

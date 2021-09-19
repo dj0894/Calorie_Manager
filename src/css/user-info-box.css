@@ -1,0 +1,18 @@
+.user-info-main-div{
+    margin:0;
+    padding:10px;
+}
+
+
+.user-info-box-div{
+    background-color:white;
+    box-shadow: 8px 8px 8px 8px rgb(140, 187, 225);
+    transition: 0.3s;
+    width: 96%;
+    padding:10px;
+    margin-top:20px; 
+    margin:10px;
+    height: 200px;
+   
+}
+

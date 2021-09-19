@@ -1,0 +1,46 @@
+.add-meal-form-div{
+    padding: 10px;
+    align-content: center;
+    
+}
+
+.add-meal-form{
+    padding:20px;
+    margin:10px;
+    align-content: center;
+    font-size: medium;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.add-meal-btn{
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #4CAF50;
+    padding: 5px;
+    width: 100%;
+    
+}
+
+.activity-log-box-div{
+    box-shadow: 8px 8px 8px 8px rgba(48, 28, 160, 0.2)s;
+    transition: 0.3s;
+    background-color: rgb(140, 187, 225);
+    width: 96%;
+    margin:20px;
+    margin-bottom: 25px;
+    padding:10px;
+    
+}
+
+.add-activity-btn{
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #4CAF50;
+    padding: 10px;
+    width:25%
+     
+}

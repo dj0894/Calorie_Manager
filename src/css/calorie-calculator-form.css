@@ -1,0 +1,48 @@
+
+.calculate-calorie-div{
+    background-color: white;
+    box-shadow: 8px 8px 8px 8px rgb(140, 187, 225);
+    transition: 0.3s;
+    padding:10px; 
+
+}
+
+.calculate-calorie-form {
+    margin:20px;
+    padding:10px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+input{
+    width: 150px;
+    margin:10px ;
+}
+
+select{
+    width: 150px;
+    margin:10px ;
+}
+
+.calculate-calorie-btn{
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #4CAF50;
+    padding: 5px;
+    width: 100%;
+}
+
+.disable-calorie-btn {
+     margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: grey;
+    padding: 5px;
+    width: 100%;
+}
+
+.erros-calculate-calorie-form{
+    color:red;
+}

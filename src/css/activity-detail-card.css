@@ -1,0 +1,56 @@
+.activity-detail-main-div{
+    box-shadow: 8px 8px 16px 8px rgb(140, 187, 225);
+    transition: 0.3s;
+    width: 96%;
+    margin-left:20px;
+    background-color: white;
+    padding:10px;
+}
+
+.calorie-diff-div{
+    box-shadow: 8px 8px 16px 8px rgb(140, 187, 225);
+    transition: 0.3s;
+    width: 96%;
+    margin-left:20px;
+    margin-bottom:20px;
+    margin-top:20px;
+    background-color: white;
+    padding:10px;
+
+}
+.calorie-diff-span-green{
+    color:green
+}
+
+.calorie-diff-span-red {
+    color:red
+}
+
+.activity-table-div{
+    border: 1px solid black;
+    margin:20px;
+    
+}
+
+.activity-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.activity-table td {
+    text-align: left;
+}
+
+.activity-table-column{
+    text-align: left;
+    padding: 8px;
+}
+
+.activity-table-head {
+    text-align: left;
+    padding: 8px;
+    height:10px;
+    background-color:rgb(140, 187, 225);
+}
+
+.activity-table-row:nth-child(odd) {background-color: #f2f2f2;}

@@ -1,0 +1,45 @@
+.add-activity-div{
+    box-shadow: 8px 8px 8px 8px rgb(140, 187, 225);
+    transition: 0.3s;
+    background-color: white;
+    width: 96%;
+    margin:10px;
+    margin-bottom: 25px;
+    padding:10px;
+}
+.add-meal-btn{
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #4CAF50;
+    padding: 5px;
+    width: 50%;
+}
+
+.disable-meal-btn {
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: grey;
+    padding: 5px;
+    width: 50%;
+}
+
+.cancel-meal-btn{
+    margin:10px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(250, 9, 9);
+    padding: 5px;
+    width: 50%;
+}
+
+.add-meal-form-coloumn{
+    width: 25% ;
+    text-align: left;
+    padding: 10px;
+
+}
+
+
+
